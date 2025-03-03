@@ -1,4 +1,4 @@
-# Heroes III DEMO Builder for VCMI
+# Heroes of Might and Magic III Demo Builder for VCMI
 
 This script extracts and merges the **Windows** and **MacOS** demo files of *Heroes of Might and Magic III* to create a compatible version for **VCMI**, specifically for use with the ➡️ [Heroes III Demo Support Mod](https://github.com/vcmi-mods/mac-demo-support).
 
