@@ -16,14 +16,14 @@ This script extracts and merges the **official Windows demo** (based on *Restora
 
 
 ## 🔧 How to Use
-1. **Download** the Windows demo (`h3demo.exe`) and the MacOS demo (`heroes_3_complete_demo.sit` or `heroes_3_complete_demo.7z.001` + `heroes_3_complete_demo.7z.002`).
-2. **Place** all required files in the same directory as this script.
-3. **Run** `extract.cmd`.
-4. **After the process is complete,** the final extracted files will be located in the `demo` directory.
-5. **Open VCMI Launcher**, click the **Copy existing data** button, and select the newly created `demo` directory.
-6. **Go to the Mods tab** in VCMI Launcher, install, and enable the **Heroes III Demo** mod.  
+1. **Download** this repository and extract it to any folder.
+2. **Run** `extract.cmd`.  
+3. **Once the process is complete,** the extracted files will be located in the `demo` directory.
+4. **Open VCMI Launcher**, click **Copy existing data**, and select the newly created `demo` directory.
+5. **Go to the Mods tab** in VCMI Launcher, install, and enable the **Heroes III Demo** mod.  
    ⚠️ *If this mod is not enabled, the game will crash!*
-7. **You're now ready to play!** 🎮
+6. **You're now ready to play!** 🎮
+
 
 
 ## 🔍 How It Works
