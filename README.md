@@ -1,6 +1,6 @@
 # Heroes of Might and Magic III Demo Builder for VCMI
 
-This script extracts and merges the **official Windows demo** (based on *Restoration of Erathia* from 1999) and the **official MacOS demo** (based on the *Complete Edition* from 2000) of *Heroes of Might and Magic III* to create a compatible version for **VCMI**, specifically for use with the ➡️ [Heroes III Demo Support Mod](https://github.com/vcmi-mods/mac-demo-support).
+This script extracts and merges the **official Windows demo** (based on *Restoration of Erathia* from 1999) and the **official MacOS demo** (based on the *Complete Edition* from 2000) of *Heroes of Might and Magic III* to create a compatible version for **VCMI**, specifically for use with the ➡️ [Heroes III Demo Support Mod](https://github.com/vcmi-mods/demo-support).
 
 
 ## 📜 Requirements
